@@ -4,7 +4,7 @@
 
 ### Cloning the repo
 
-```sh
+```
 bun create hono ./NAME_HERE
 ```
 
@@ -15,6 +15,12 @@ bun run start
 ```
 
 Open http://localhost:3000 with your browser to see the result.
+
+### Create new Module
+
+```
+bun new m <ModuleName>
+```
 
 ### For more information
 
