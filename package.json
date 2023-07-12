@@ -10,7 +10,7 @@
     },
     "scripts": {
         "start": "bun run --watch src/index.ts",
-        "new": "bun src/cli.ts"
+        "new": "bun src/cli/index.ts"
     },
     "module": "src/index.js"
 }

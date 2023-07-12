@@ -1,5 +1,5 @@
 import { Command } from "commander";
-import { Module } from "./cli/Module";
+import { Module } from "./Module";
 
 const program = new Command();
 const generator = new Module();
