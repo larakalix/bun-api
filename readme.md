@@ -19,7 +19,7 @@ Open http://localhost:3000 with your browser to see the result.
 ### Create new Module
 
 ```
-bun new m <ModuleName>
+bun new m <ModuleName> || bun new module <ModuleName>
 ```
 
 ### For more information
